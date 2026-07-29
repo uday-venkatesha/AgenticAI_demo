@@ -1,1 +1,12 @@
 pydantic
+langchain
+dotenv
+openai
+ipykernel
+langchain-community
+langgraph
+langgraph-prebuilt
+langgraph-sdk
+langsmith
+langchain-core
+langchain-protocol
