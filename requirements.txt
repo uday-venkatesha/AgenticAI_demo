@@ -10,3 +10,4 @@ langgraph-sdk
 langsmith
 langchain-core
 langchain-protocol
+langchain-groq
