@@ -11,3 +11,5 @@ langsmith
 langchain-core
 langchain-protocol
 langchain-groq
+arxiv==2.1.3
+wikipedia
